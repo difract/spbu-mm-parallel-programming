@@ -1,0 +1,9 @@
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\bin\Release\task1_MarkusVA.exe.config
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\bin\Release\task1_MarkusVA.exe
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\bin\Release\task1_MarkusVA.pdb
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\bin\Release\MPI.dll
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\obj\Release\task1_MarkusVA.csprojAssemblyReference.cache
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\obj\Release\task1_MarkusVA.csproj.CoreCompileInputs.cache
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\obj\Release\task1_MarkusVA.csproj.CopyComplete
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\obj\Release\task1_MarkusVA.exe
+D:\INSTALL\SPbU\Параллелки\task1\task1_MarkusVA\task1_MarkusVA\obj\Release\task1_MarkusVA.pdb
