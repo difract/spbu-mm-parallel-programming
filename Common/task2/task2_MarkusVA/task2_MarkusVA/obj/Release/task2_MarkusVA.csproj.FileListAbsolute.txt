@@ -1,6 +1,0 @@
-D:\INSTALL\SPbU\Параллелки\task2\task2_MarkusVA\task2_MarkusVA\bin\Release\task2_MarkusVA.exe.config
-D:\INSTALL\SPbU\Параллелки\task2\task2_MarkusVA\task2_MarkusVA\bin\Release\task2_MarkusVA.exe
-D:\INSTALL\SPbU\Параллелки\task2\task2_MarkusVA\task2_MarkusVA\bin\Release\task2_MarkusVA.pdb
-D:\INSTALL\SPbU\Параллелки\task2\task2_MarkusVA\task2_MarkusVA\obj\Release\task2_MarkusVA.csproj.CoreCompileInputs.cache
-D:\INSTALL\SPbU\Параллелки\task2\task2_MarkusVA\task2_MarkusVA\obj\Release\task2_MarkusVA.exe
-D:\INSTALL\SPbU\Параллелки\task2\task2_MarkusVA\task2_MarkusVA\obj\Release\task2_MarkusVA.pdb
