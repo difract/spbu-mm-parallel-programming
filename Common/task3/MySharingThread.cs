@@ -43,7 +43,7 @@ namespace task3
                         }
                     }
                 }
-                Thread.Sleep(30);
+                Thread.Yield();
             }
         }
         private void Balance(IDEQueue<IMyTask> q0, IDEQueue<IMyTask> q1)

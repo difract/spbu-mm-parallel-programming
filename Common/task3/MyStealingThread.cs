@@ -25,7 +25,7 @@ namespace task3
                     task.Start();
                     task = Queue[me].PopBottom();
                 }
-                while (task == null)
+                if (task == null)
                 {
                     Thread.Yield();
                     int victim = Queue.Keys.ToList()[Random.Next(Queue.Keys.Count)];
@@ -37,8 +37,6 @@ namespace task3
                     {
                         task = Queue[me].PopTop();
                     }
-                    Thread.Sleep(30);
-                    break;
                 }
             }
         }
